@@ -2,9 +2,9 @@
 
 (site under construction)
 
-# Research:
+# Research
 
-# Selected Publications:
+# Selected Publications
 
 ## FlpStop, a tool for conditional gene control in Drosophila
 
@@ -25,7 +25,7 @@ Detecting the orientation and movement of visual edges is critical to visually-g
 
 Visual motion processing in Drosophila occurs in parallel ON and OFF channels. In this study, we identified the interneuron Tm9 as a critical component of the OFF pathway. Tm9 is required for behavioral responses to OFF moving edges, and silencing Tm9 disrupts motion signals in the downstream motion sensitive neurons. Interestingly, these neurons have very wide receptive fields, a property not predicted by current models. In addition, excitatory signals from both ON and OFF upstream channels converge on Tm9, suggesting that ON and OFF pathways are not cleanly separable.
 
-# Full Publication list:
+# Full Publication list
 12) **Fisher, Y. E.** & Clandinin, T.R. (2017) Chapter 15: Combining Anatomy, Measurement and Manipulation of Neuronal Activity to Interrogate Circuit Function in Drosophila. In M. F. Wernet & A. Çelik (Eds.)  Decoding Neural Circuit Structure and Function (pp. 371-391). Springer. 10.1007/978-3-319-57363-2. 
 
 11) **Fisher, Y. E.**\*, Yang, H. H.\*, Isaacman-Beck, J., Xie, M., Gohl, D. M., Clandinin, T. R. (2017) FlpStop, a tool for  conditional gene control in Drosophila. ELife 6: e22279  * equal contributions 
@@ -52,7 +52,8 @@ Visual motion processing in Drosophila occurs in parallel ON and OFF channels. I
 1)  **Fisher, Y. E.**, Andre, V., Cepeda, C., Levine, M. (2008) Dopamine-glutamate interactions at the forefront of schizophrenia research, Cell Science Reviews, Vol 5 No 1.
 
 
-# Cover art:
+# Cover art
 
 # CV
+
 # Thesis
