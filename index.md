@@ -2,7 +2,7 @@
 
 (site under construction)
 
-[Cover Art](https://evettita.github.io/coverart.md)
+[Cover Art](https://evettita.github.io/coverart)
 
 # Research
 
