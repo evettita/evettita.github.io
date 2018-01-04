@@ -1,7 +1,8 @@
 # Yvette Fisher
 
-(site under construction)
+![Yvette](yvettePicture_400x325.jpg "Yvette")
 
+Email: Yvette_Fisher@harvard.edu
 
 [Publications](https://evettita.github.io/publications)
 
@@ -59,9 +60,3 @@ Visual motion processing in Drosophila occurs in parallel ON and OFF channels. I
 1)  **Fisher, Y. E.**, Andre, V., Cepeda, C., Levine, M. (2008) Dopamine-glutamate interactions at the forefront of schizophrenia research, Cell Science Reviews, Vol 5 No 1.
 
 
-# Cover art
-![Cover submission](T4T5CoverPainting_800x634p.jpg "Orienation Selectivity cover art")
-
-# CV
-
-# Thesis
