@@ -1,6 +1,7 @@
 #Contact
 
-![Yvette](yvettePicture.jpg "Yvette")
-email: Yvette_Fisher@harvard.edu
+Email: Yvette_Fisher@harvard.edu
+![Yvette](yvettePicture_400x325.jpg "Yvette")
+
 
 
