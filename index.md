@@ -1,4 +1,4 @@
-# Yvette Fisher, PhD
+# Yvette Fisher
 
 (site under construction)
 
