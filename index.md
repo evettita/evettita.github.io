@@ -2,6 +2,8 @@
 
 (site under construction)
 
+[Cover Art](https://evettita.github.io/coverart.md)
+
 # Research
 
 # Selected Publications
