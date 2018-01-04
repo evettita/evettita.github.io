@@ -54,6 +54,7 @@ Visual motion processing in Drosophila occurs in parallel ON and OFF channels. I
 
 
 # Cover art
+![Alt text](/path/to/img.jpg "Title")
 
 # CV
 
