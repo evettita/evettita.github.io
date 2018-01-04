@@ -2,8 +2,11 @@
 
 (site under construction)
 
-[Cover Art](https://evettita.github.io/coverart)
+
 [Publications](https://evettita.github.io/publications)
+
+[Cover Art](https://evettita.github.io/coverart)
+
 
 # Research
 
