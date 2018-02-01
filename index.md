@@ -2,7 +2,7 @@
 
 ![Yvette](yvettePicture_400x325.jpg "Yvette")
 
-Email: Yvette_Fisher@harvard.edu
+Email: Yvette_Fisher@hms.harvard.edu
 
 [Publications](https://evettita.github.io/publications)
 
