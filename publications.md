@@ -3,7 +3,7 @@
 
 [About](https://evettita.github.io) | [Publications](https://evettita.github.io/publications) | [Art](https://evettita.github.io/coverart)
 
-Google Scholar mantained publication [list](https://scholar.google.com/citations?user=-huQ4SMAAAAJ&hl=en)
+full publication [list](https://scholar.google.com/citations?user=-huQ4SMAAAAJ&hl=en) maintained on google scholar
 
 # Selected Publications
 
