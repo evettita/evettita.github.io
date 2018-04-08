@@ -7,8 +7,6 @@ yvette_fisher@hms.harvard.edu [@yvetteefisher](https://twitter.com/yvetteefisher
 [Publications](https://evettita.github.io/publications) | [Cover Art](https://evettita.github.io/coverart)
 
 
-# Research
-
 # Selected Publications
 
 ## FlpStop, a tool for conditional gene control in Drosophila
