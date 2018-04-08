@@ -1,6 +1,8 @@
 
 # Selected Publications
 
+[About](https://evettita.github.io) | [Publications](https://evettita.github.io/publications) | [Cover Art](https://evettita.github.io/coverart)
+
 ## FlpStop, a tool for conditional gene control in Drosophila
 
 **Fisher, Y. E.**\*, Yang, H. H.\*, Isaacman-Beck, J., Xie, M., Gohl, D. M., Clandinin, T. R. (2017). ELife 6: e22279 
