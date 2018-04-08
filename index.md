@@ -1,6 +1,6 @@
 # Yvette Fisher
 
-![Yvette](yvettePicture_400x325.jpg "Yvette")
+<--![Yvette](yvettePicture_400x325.jpg "Yvette")-->
 ![Yvette](yvetteInPatagonia_250_250.jpg "Yvette")
 
 Email: Yvette_Fisher@hms.harvard.edu
