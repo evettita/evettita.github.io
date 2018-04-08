@@ -3,7 +3,7 @@
 
 [About](https://evettita.github.io) | [Publications](https://evettita.github.io/publications) | [Art](https://evettita.github.io/coverart)
 
-![VisualSystem](visualSystem_250_250.jpg "Drosophila visual system") 
+![VisualSystem](images/visualSystem_250_250.jpg "Drosophila visual system") 
 
 full publication [list](https://scholar.google.com/citations?user=-huQ4SMAAAAJ&hl=en) on google scholar
 
@@ -14,15 +14,16 @@ full publication [list](https://scholar.google.com/citations?user=-huQ4SMAAAAJ&h
 **Fisher, Y. E.**\*, Yang, H. H.\*, Isaacman-Beck, J., Xie, M., Gohl, D. M., Clandinin, T. R. (2017). ELife 6: e22279 
 \* equal contributions ([link](https://elifesciences.org/articles/22279))
 
-![FlpStop](flpStopSchematic_500_201.jpg "FlpStop logic") 
+![FlpStop](images/flpStopSchematic_500_201.jpg "FlpStop logic") 
 We developed an improved transgenic tool kit called FlpStop that provides a facile and generalizable means to create conditional alleles that can be turned ON or OFF in any cell type of interest.
+
+Highlighted in Science [Editors' Choice](http://science.sciencemag.org/content/355/6332/twil#compilation-1-4-article-title-1)
 
 ## Orientation selectivity sharpens motion detection in Drosophila
 
-**Fisher, Y. E.**\*, Silies, M.*, Clandinin, T. R. (2015). Neuron 88 (390-402) * equal contributions ([link](http://www.sciencedirect.com/science/article/pii/S0896627315008223))
+**Fisher, Y. E.**\*, Silies, M.*, Clandinin, T. R. (2015). Neuron 88 (390-402) \* equal contributions ([link](http://www.sciencedirect.com/science/article/pii/S0896627315008223))
 
-
-![Orietation and Direction tuning](OrientationTuning_500_288.jpg "OS & DS plot") 
+![Orietation and Direction tuning](images/OrientationTuning_500_288.jpg "OS & DS plot") 
 
 Detecting the orientation and movement of visual edges is critical to visually-guided behaviors. We found that motion detecting circuits in Drosophila amplify signals in the preferred direction. These same neurons respond selectively to static features that are oriented orthogonal to their preferred direction of motion. This coincident extraction of orientation and direction sharpens directional tuning and reveals a striking parallel between visual processing in flies and the primary visual cortex of vertebrates, suggesting a universal strategy for motion processing.
 
@@ -32,7 +33,9 @@ Detecting the orientation and movement of visual edges is critical to visually-g
 
 Visual motion processing in Drosophila occurs in parallel ON and OFF channels. In this study, we identified the interneuron Tm9 as a critical component of the OFF pathway. Tm9 is required for behavioral responses to OFF moving edges, and silencing Tm9 disrupts motion signals in the downstream motion sensitive neurons. Interestingly, these neurons have very wide receptive fields, a property not predicted by current models. In addition, excitatory signals from both ON and OFF upstream channels converge on Tm9, suggesting that ON and OFF pathways are not cleanly separable.
 
-# Full Publication list
+## Full Publication list
+13) Constance, W. D., Mukherjee, A., **Fisher, Y. E.**, Pop, S. Blanc, E., Toyama, Y., Wiliams, D. W. (2018) Neurexin and Neuroligin-based adhesion complexes drive axonal arborisation. ELife 7:e31659. 
+
 12) **Fisher, Y. E.** & Clandinin, T.R. (2017) Chapter 15: Combining Anatomy, Measurement and Manipulation of Neuronal Activity to Interrogate Circuit Function in Drosophila. In M. F. Wernet & A. Çelik (Eds.)  Decoding Neural Circuit Structure and Function (pp. 371-391). Springer. 10.1007/978-3-319-57363-2. 
 
 11) **Fisher, Y. E.**\*, Yang, H. H.\*, Isaacman-Beck, J., Xie, M., Gohl, D. M., Clandinin, T. R. (2017) FlpStop, a tool for  conditional gene control in Drosophila. ELife 6: e22279  * equal contributions 
