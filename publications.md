@@ -6,6 +6,7 @@
 Google Scholar mantained publication [list](https://scholar.google.com/citations?user=-huQ4SMAAAAJ&hl=en)
 
 
+![FlpStop](flpStopSchematic_200_81.jpg "FlpStop logic")
 
 ## FlpStop, a tool for conditional gene control in Drosophila
 
