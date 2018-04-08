@@ -1,6 +1,5 @@
 
 # Publications
-
 [About](https://evettita.github.io) | [News](https://evettita.github.io/news) | [Publications](https://evettita.github.io/publications) | [Resources](https://evettita.github.io/resources) | [Art](https://evettita.github.io/coverart)
 
 ![VisualSystem](images/visualSystem_250_250.jpg "Drosophila visual system") 

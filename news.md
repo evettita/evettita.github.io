@@ -1,5 +1,4 @@
 # News
-
 [About](https://evettita.github.io) | [News](https://evettita.github.io/news) | [Publications](https://evettita.github.io/publications) | [Resources](https://evettita.github.io/resources) | [Art](https://evettita.github.io/coverart)
 
 Summer 2018  – Excited to be teaching in a section of the [Neural Systems and Behavior course](http://www.mbl.edu/education/courses/neural-systems-behavior/) this summer at Woods Hole.
