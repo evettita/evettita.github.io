@@ -1,7 +1,7 @@
 
 # Publications
 
-[About](https://evettita.github.io) | [Publications](https://evettita.github.io/publications) | [Art](https://evettita.github.io/coverart)
+[About](https://evettita.github.io) | [News](https://evettita.github.io/news) | [Publications](https://evettita.github.io/publications) | [Resources](https://evettita.github.io/resources) | [Art](https://evettita.github.io/coverart)
 
 ![VisualSystem](images/visualSystem_250_250.jpg "Drosophila visual system") 
 
@@ -23,13 +23,15 @@ Highlighted in Science [Editors' Choice](http://science.sciencemag.org/content/3
 
 **Fisher, Y. E.**\*, Silies, M.*, Clandinin, T. R. (2015). Neuron 88 (390-402) \* equal contributions ([link](http://www.sciencedirect.com/science/article/pii/S0896627315008223))
 
-![Orietation and Direction tuning](images/OrientationTuning_500_288.jpg "OS & DS plot") 
+![Orientation and Direction tuning](images/OrientationTuning_500_288.jpg "OS & DS plot") 
 
 Detecting the orientation and movement of visual edges is critical to visually-guided behaviors. We found that motion detecting circuits in Drosophila amplify signals in the preferred direction. These same neurons respond selectively to static features that are oriented orthogonal to their preferred direction of motion. This coincident extraction of orientation and direction sharpens directional tuning and reveals a striking parallel between visual processing in flies and the primary visual cortex of vertebrates, suggesting a universal strategy for motion processing.
 
 ## A Class of Visual Neurons with Wide-Field Properties Is Required for Local Motion Detection
 
 **Fisher, Y. E.**\*, Leong, J. C. S.\*, Sporar, K., Ketkar, M. D., Gohl, D. M., Clandinin, T. R., Silies, M. (2015). Current Biology 25(3178-3189) * equal contributions ([link](http://www.cell.com/current-biology/abstract/S0960-9822(15)01412-8))
+
+![Tm9 graphical abstract](images/graphical_abstract.jpg "Candidate OFF pathway") 
 
 Visual motion processing in Drosophila occurs in parallel ON and OFF channels. In this study, we identified the interneuron Tm9 as a critical component of the OFF pathway. Tm9 is required for behavioral responses to OFF moving edges, and silencing Tm9 disrupts motion signals in the downstream motion sensitive neurons. Interestingly, these neurons have very wide receptive fields, a property not predicted by current models. In addition, excitatory signals from both ON and OFF upstream channels converge on Tm9, suggesting that ON and OFF pathways are not cleanly separable.
 
