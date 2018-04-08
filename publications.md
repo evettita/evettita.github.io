@@ -5,15 +5,14 @@
 
 Google Scholar mantained publication [list](https://scholar.google.com/citations?user=-huQ4SMAAAAJ&hl=en)
 
-
-![FlpStop](flpStopSchematic_200_81.jpg "FlpStop logic")
+# Selected Publications
 
 ## FlpStop, a tool for conditional gene control in Drosophila
 
 **Fisher, Y. E.**\*, Yang, H. H.\*, Isaacman-Beck, J., Xie, M., Gohl, D. M., Clandinin, T. R. (2017). ELife 6: e22279 
 \* equal contributions ([link](https://elifesciences.org/articles/22279))
 
-We developed an improved transgenic tool kit called FlpStop that provides a facile and generalizable means to create conditional alleles that can be turned ON or OFF in any cell type of interest.
+![FlpStop](flpStopSchematic_200_81.jpg "FlpStop logic") We developed an improved transgenic tool kit called FlpStop that provides a facile and generalizable means to create conditional alleles that can be turned ON or OFF in any cell type of interest.
 
 ## Orientation selectivity sharpens motion detection in Drosophila
 
