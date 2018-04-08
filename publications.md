@@ -3,6 +3,8 @@
 
 [About](https://evettita.github.io) | [Publications](https://evettita.github.io/publications) | [Art](https://evettita.github.io/coverart)
 
+![VisualSystem](visualSystem_250_250.jpg "Drosophila visual system") 
+
 full publication [list](https://scholar.google.com/citations?user=-huQ4SMAAAAJ&hl=en) on google scholar
 
 # Selected Publications
