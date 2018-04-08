@@ -8,7 +8,7 @@
 ## FlpStop reagents
 FlpStop plasmids are available from [addgene](https://www.addgene.org/browse/article/25565/)
 
-![plasmid](images/flpStopPlasmidMap_450_475.jpg "FlpStop plasmid map") 
+![plasmid](images/flpStopPlasmidMap_450_473.jpg "FlpStop plasmid map") 
 
 FlpStop fly strains are available from [BDSC](https://bdsc.indiana.edu/).  Here is a [list](http://flybase.org/hitlist/FBtp0116718/to/FBti#/page/1) from FlyBase of all of the available strains
 
