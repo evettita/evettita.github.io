@@ -1,5 +1,5 @@
 # Cover art
-[About](https://evettita.github.io) | [Publications](https://evettita.github.io/publications) | [Cover Art](https://evettita.github.io/coverart)
+[About](https://evettita.github.io) | [Publications](https://evettita.github.io/publications) | [Art](https://evettita.github.io/coverart)
 
 I enjoy creating cover painting to accompany publications, one of these days it would be excited to get selected for the cover.
 
