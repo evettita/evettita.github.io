@@ -1,7 +1,7 @@
 # Cover art
 [About](https://evettita.github.io) | [Publications](https://evettita.github.io/publications) | [Art](https://evettita.github.io/coverart)
 
-I enjoy creating cover painting to accompany publications, one of these days it would be excited to get selected for the cover.
+I enjoy creating cover painting to accompany publications, one of these days I would be excited to get selected for the cover.
 
 ## Orientation selectivity sharpens motion detection 
 ![Cover submission](images/T4T5CoverPainting_800x634p.jpg "Orientation Selectivity cover art")
