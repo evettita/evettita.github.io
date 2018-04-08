@@ -2,7 +2,7 @@
 
 ![Yvette](yvetteInPatagonia_250_250.jpg "Yvette")
 
-Yvette_Fisher@hms.harvard.edu [@yvetteefisher](https://twitter.com/yvetteefisher)
+yvette_fisher@hms.harvard.edu | [@yvetteefisher](https://twitter.com/yvetteefisher)
 
 [Publications](https://evettita.github.io/publications)
 
