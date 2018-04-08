@@ -1,7 +1,7 @@
 
 # Selected Publications
 
-[About](https://evettita.github.io) | [Publications](https://evettita.github.io/publications) | [Cover Art](https://evettita.github.io/coverart)
+[About](https://evettita.github.io) | [Publications](https://evettita.github.io/publications) | [Art](https://evettita.github.io/coverart)
 
 ## FlpStop, a tool for conditional gene control in Drosophila
 
