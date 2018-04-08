@@ -1,5 +1,5 @@
 # Yvette Fisher
-[Publications](https://evettita.github.io/publications) [Cover Art](https://evettita.github.io/coverart)
+[About](https://evettita.github.io) | [Publications](https://evettita.github.io/publications) | [Cover Art](https://evettita.github.io/coverart)
 
 ![Yvette](yvetteInPatagonia_250_250.jpg "Yvette")
 
