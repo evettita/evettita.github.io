@@ -20,6 +20,8 @@ We developed an improved transgenic tool kit called FlpStop that provides a faci
 **Fisher, Y. E.**\*, Silies, M.*, Clandinin, T. R. (2015). Neuron 88 (390-402) * equal contributions ([link](http://www.sciencedirect.com/science/article/pii/S0896627315008223))
 
 
+![Orietation and Direction tuning](OrientationTuning_500_288.jpg "OS & DS plot") 
+
 Detecting the orientation and movement of visual edges is critical to visually-guided behaviors. We found that motion detecting circuits in Drosophila amplify signals in the preferred direction. These same neurons respond selectively to static features that are oriented orthogonal to their preferred direction of motion. This coincident extraction of orientation and direction sharpens directional tuning and reveals a striking parallel between visual processing in flies and the primary visual cortex of vertebrates, suggesting a universal strategy for motion processing.
 
 ## A Class of Visual Neurons with Wide-Field Properties Is Required for Local Motion Detection
