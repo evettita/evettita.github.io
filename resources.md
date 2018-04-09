@@ -1,5 +1,5 @@
 # Resources
-[About](https://evettita.github.io) | [News](https://evettita.github.io/news) | [Publications](https://evettita.github.io/publications) | [Resources](https://evettita.github.io/resources) | [Art](https://evettita.github.io/coverart)
+[About](https://evettita.github.io) | [News](https://evettita.github.io/news) | [Publications](https://evettita.github.io/publications) | [Resources](https://evettita.github.io/resources) | [Art](https://evettita.github.io/coverart) | [CV](images/CV_Yvette_Fisher_2018_April.pdf)
 
 ![flyimage](images/apterousFly_250_250.jpg "Wingless fly") 
 
