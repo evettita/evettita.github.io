@@ -1,6 +1,8 @@
 # News
 [About](https://evettita.github.io) | [News](https://evettita.github.io/news) | [Publications](https://evettita.github.io/publications) | [Resources](https://evettita.github.io/resources) | [Art](https://evettita.github.io/coverart)
 
+![ephy rig](images/microscope_250_250.jpg "microscope") 
+
 Summer 2018  – Excited to be teaching in a section of the [Neural Systems and Behavior course](http://www.mbl.edu/education/courses/neural-systems-behavior/) this summer at Woods Hole.
 
 March 2018  – FlpStop aids in the Williams lab’s beautiful [study](https://elifesciences.org/articles/31659) of neurexin and neuroligin function in axon growth.

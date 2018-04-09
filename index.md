@@ -5,7 +5,7 @@
 
 yvette_fisher@hms.harvard.edu [@yvetteefisher](https://twitter.com/yvetteefisher)
 
-Welcome, I am Yvette Fisher.  I am a neuroscientist interested in the interactions between single neuron biophysics and neuronal circuit function. I currently work as a postdoctoral fellow in the lab of [Rachel Wilson](https://wilson.hms.harvard.edu/) in the [Neurobiology Department](https://neuro.hms.harvard.edu/) at Harvard Medical School.
+Welcome, I am Yvette Fisher.  I am a neuroscientist interested in the interactions between single neuron biophysic and neuronal circuit function. I currently work as a postdoctoral fellow in the lab of [Rachel Wilson](https://wilson.hms.harvard.edu/) in the [Neurobiology Department](https://neuro.hms.harvard.edu/) at Harvard Medical School.
 
 My research employs a range of approaches including genetic manipulation, two-photon calcium imaging, in vivo electrophysiology, and behavioral analysis.  Using these approaches I study how the properties of single neurons and the communication between groups of neurons allow the brain to compute.  I receive funding for my postdoctoral research from the [HHMI Hanna Gray fellowship](https://www.hhmi.org/programs/hanna-h-gray-fellows-program#F). 
 
