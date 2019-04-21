@@ -14,7 +14,7 @@ Video [evidence](https://www.youtube.com/watch?time_continue=2&v=lThCxILtl3w) th
 
 July 2017 – a [review chapter](https://link.springer.com/chapter/10.1007%2F978-3-319-57363-2_15) that I wrote with Tom Clandinin about the application of genetic tools to circuit dissection is published.
 
-March 2017 – FlpStop tool receives a shout out in Science magazine
+March 2017 – FlpStop tool receives a [shout out](https://science.sciencemag.org/content/355/6332/1387.4) in Science magazine
 
 February 2017 – Our [FlpStop paper](https://elifesciences.org/articles/22279) is published!
 
