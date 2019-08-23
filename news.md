@@ -3,7 +3,7 @@
 
 ![ephy rig](images/microscope_250_250.jpg "microscope") 
 
-July 2019  – Another great year for the "[Fly Module]" (https://www.mbl.edu/nsb/about/flyflight/) at Woods Hole.
+July 2019  – Another great year for the "[Fly Module](https://www.mbl.edu/nsb/about/flyflight/)" at Woods Hole.
 
 October 2018 - Exciting to co-organize and share my latest research at [Structure and Function of the Insect Central Complex ](https://www.janelia.org/you-janelia/conferences/structure-and-function-of-the-insect-central-complex) meeting at Janelia!
 
