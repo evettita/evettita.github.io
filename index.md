@@ -1,5 +1,5 @@
 # Yvette Fisher
-[About](https://evettita.github.io) | [News](https://evettita.github.io/news) | [Publications](https://evettita.github.io/publications) | [Resources](https://evettita.github.io/resources) | [Art](https://evettita.github.io/coverart) | [CV](images/CV_Yvette_Fisher_2019_april.pdf)
+[About](https://evettita.github.io) | [News](https://evettita.github.io/news) | [Publications](https://evettita.github.io/publications) | [Resources](https://evettita.github.io/resources) | [Art](https://evettita.github.io/coverart) | [CV](images/CV Yvette Fisher 2019_Sept.pdf)
 
 ![Yvette](images/yvetteInPatagonia_250_250.jpg "Yvette")
 
