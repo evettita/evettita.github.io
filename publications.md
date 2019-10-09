@@ -36,10 +36,6 @@ Visual motion processing in Drosophila occurs in parallel ON and OFF channels. I
 
 ## Full Publication list
 
-15) **Fisher, Y. E.**, Lu, J. D’Alessandro, I. Wilson, R. I. (2019) Sensorimotor experience remaps visual input to a heading direction network.  Nature. In press
-
-14) Isaacman-Back, J. Paik, K. C., Wienecke, C. F. R., Yang, H. H., **Fisher, Y. E.**, Wang, I. E., Ishida, I. G. Maimon, G. Wilson, R. I. Clandinin, T. R.  (2019) SPARC: a method to genetically manipulate precise proportions of cells.  BioRxiv doi: 10.1101/788679
-
 13) Constance, W. D., Mukherjee, A., **Fisher, Y. E.**, Pop, S. Blanc, E., Toyama, Y., Wiliams, D. W. (2018) Neurexin and Neuroligin-based adhesion complexes drive axonal arborisation. ELife 7:e31659. 
 
 12) **Fisher, Y. E.** & Clandinin, T.R. (2017) Chapter 15: Combining Anatomy, Measurement and Manipulation of Neuronal Activity to Interrogate Circuit Function in Drosophila. In M. F. Wernet & A. Çelik (Eds.)  Decoding Neural Circuit Structure and Function (pp. 371-391). Springer. 10.1007/978-3-319-57363-2. 
