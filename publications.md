@@ -51,13 +51,14 @@ Visual motion processing in Drosophila occurs in parallel ON and OFF channels. I
 
  Esch, J.J., **Fisher, Y. E.**, Leong, J.C.S, Clandinin, T.R., (2015) Chapter 12: Genetic Pathways to Circuit Understanding in Drosophila. Neural Tracing Methods, Tracing Neurons and Their connections, 92(249-274)
 
-  Silies, M. S.\* Gohl, D.\*, **Fisher, Y. E.**, Freifeld, L., Clark, D., Clandinin, T. (2013) Modular Use of Peripheral Input Channels Tunes Motion-Detecting Circuitry. Neuron, 79(1), 111–12  * equal contributions
+  Silies, M. S.\* Gohl, D.\*, **Fisher, Y. E.**, Freifeld, L., Clark, D., Clandinin, T. (2013) Modular Use of Peripheral Input Channels Tunes Motion-Detecting Circuitry. Neuron, 79(1), 111–12  * equal contribution
+  
   Andre, V. M., **Fisher, Y. E.**, Levine, M. S. (2011) Altered balance of activity in the striatal direct and indirect pathways in mouse models of Huntington’s disease. Frontiers in Systems Neurosci.  5(46)
 
   Andre, V. M., Cepeda, C., **Fisher, Y. E.**, Huynh, M. Bardakjian, N. Singh, S. Yang, X. W. Levine, M. (2011) Differential electrophysiological changes in striatal output neurons in Huntington's disease. J. Neurosci, 31(4):1170–1182.
 
   Cummings, D. M., Andre, V. M., Uzgil, B. O., Gee, S. M., **Fisher, Y. E.**, Cepeda, C., Levine, M. S. (2009) Alterations in Cortical Excitation and Inhibition in Genetic Mouse Models of Huntington’s Disease. J.Neurosci, 29 (33)10371-86
 
-  Andre, V., Cepeda, C., Cummings, D., Jocoy, E., **Fisher, Y. E.**, Yang, W., Levine M. S. (2009) Dopamine Modulation of Excitatory Currents in Striatum is Dictated by the Expression of D1 or D2 Receptors and Modified by Endocannabinoids, Eur. J. of Neurosci. 31(1) 14-28
+2)  Andre, V., Cepeda, C., Cummings, D., Jocoy, E., **Fisher, Y. E.**, Yang, W., Levine M. S. (2009) Dopamine Modulation of Excitatory Currents in Striatum is Dictated by the Expression of D1 or D2 Receptors and Modified by Endocannabinoids, Eur. J. of Neurosci. 31(1) 14-28
 
-  **Fisher, Y. E.**, Andre, V., Cepeda, C., Levine, M. (2008) Dopamine-glutamate interactions at the forefront of schizophrenia research, Cell Science Reviews, Vol 5 No 1.
+1)  **Fisher, Y. E.**, Andre, V., Cepeda, C., Levine, M. (2008) Dopamine-glutamate interactions at the forefront of schizophrenia research, Cell Science Reviews, Vol 5 No 1.
