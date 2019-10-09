@@ -5,9 +5,9 @@
 
 yvette_fisher@hms.harvard.edu [@yvetteefisher](https://twitter.com/yvetteefisher)
 
-Welcome, I am Yvette Fisher.  I am a neuroscientist interested in the interactions between single neuron biophysic and neuronal circuit function. I currently work as a postdoctoral fellow in the lab of [Rachel Wilson](https://wilson.hms.harvard.edu/) in the [Neurobiology Department](https://neuro.hms.harvard.edu/) at Harvard Medical School.
+Welcome, I am Yvette Fisher.  I am a neuroscientist interested in understanding network flexibility at the level of single neuron biophysic and neuronal circuit dynamics. I currently work as a postdoctoral fellow in the lab of [Rachel Wilson](https://wilson.hms.harvard.edu/) in the [Neurobiology Department](https://neuro.hms.harvard.edu/) at Harvard Medical School.
 
-My research employs a range of approaches including genetic manipulation, two-photon calcium imaging, in vivo electrophysiology, and behavioral analysis.  Using these approaches I study how the properties of single neurons and the communication between groups of neurons allow the brain to compute.  I receive funding for my postdoctoral research from the [HHMI Hanna Gray fellowship](https://www.hhmi.org/programs/hanna-h-gray-fellows-program#F). 
+My research employs a range of approaches including genetic manipulation, two-photon calcium imaging, in vivo electrophysiology, and behavioral analysis.  Using these approaches I study how the properties of single neurons and the communication between groups of neurons allow the brain to compute and how these computations are modified overtime to adapt to an organism's current enviroment and internal conditions.  I receive funding for my postdoctoral research from the [HHMI Hanna Gray fellowship](https://www.hhmi.org/programs/hanna-h-gray-fellows-program#F). 
 
 During my PhD, I worked with [Tom Clandinin](https://flyvisionlab.weebly.com/) at Stanford where my research focused on neural mechanism of visual motion detection and genetic tool development in Drosophila.  Check out my dissertation [here](https://searchworks.stanford.edu/view/11685342).
 
