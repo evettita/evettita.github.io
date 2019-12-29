@@ -40,7 +40,7 @@ Detecting the orientation and movement of visual edges is critical to visually-g
 Visual motion processing in Drosophila occurs in parallel ON and OFF channels. In this study, we identified the interneuron Tm9 as a critical component of the OFF pathway. Tm9 is required for behavioral responses to OFF moving edges, and silencing Tm9 disrupts motion signals in the downstream motion sensitive neurons. Interestingly, these neurons have very wide receptive fields, a property not predicted by current models. In addition, excitatory signals from both ON and OFF upstream channels converge on Tm9, suggesting that ON and OFF pathways are not cleanly separable.
 
 ## Full Publication list
-15)**Fisher, Y. E.**, Lu, J. D’Alessandro, I. Wilson, R. I.(2019) Sensorimotor experience remaps visual input to a heading-direction network.  Nature, doi:10.1038/s41586-019-1772-4
+15)**Fisher, Y. E.**, Lu, J. D’Alessandro, I. Wilson, R. I.(2019) Sensorimotor experience remaps visual input to a heading-direction network.  Nature 576, 121-125
 
 14)Isaacman-Back, J. Paik, K. C., Wienecke, C. F. R., Yang, H. H., **Fisher, Y. E.**, Wang, I. E., Ishida, I. G. Maimon, G. Wilson, R. I. Clandinin, T. R.  (2019) SPARC: a method to genetically manipulate precise proportions of cells.  BioRxiv doi: 10.1101/788679
 
