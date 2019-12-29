@@ -11,6 +11,8 @@ full publication [list](https://scholar.google.com/citations?user=-huQ4SMAAAAJ&h
 ## Sensorimotor experience remaps visual input to a heading-direction network
 **Fisher, Y. E.**, Lu, J. D’Alessandro, I. Wilson, R. I. (2019). Nature 576, 121-125 ([link](https://www.nature.com/articles/s41586-019-1772-4))
 
+[Preview](https://www.nature.com/articles/d41586-019-03443-1) by M Campbell & L Giocomo 
+
 ## FlpStop, a tool for conditional gene control in Drosophila
 
 **Fisher, Y. E.**\*, Yang, H. H.\*, Isaacman-Beck, J., Xie, M., Gohl, D. M., Clandinin, T. R. (2017). ELife 6: e22279 
