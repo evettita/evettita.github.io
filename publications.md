@@ -11,6 +11,8 @@ full publication [list](https://scholar.google.com/citations?user=-huQ4SMAAAAJ&h
 ## Sensorimotor experience remaps visual input to a heading-direction network
 **Fisher, Y. E.**, Lu, J. D’Alessandro, I. Wilson, R. I. (2019). Nature 576, 121-125 ([link](https://www.nature.com/articles/s41586-019-1772-4))
 
+We can maintain some sense of direction in the dark by keeping track of our own movements, but when visual landmarks are available, our sense of direction is more accurate. In this study we investigated the mechanisms that reconcile self-movement information with ever-changing landmarks to generate a coherent sense of direction. Using whole-cell recordings and calcium imaging from Drosophila heading neurons, we show that each heading neuron is inhibited by visual cues in specific horizontal positions, with different visual maps in different individuals. Inhibition arises from presynaptic axons that form an all-to-all matrix of potential connections onto heading neurons. We found that visual input to the heading network can reorganize over minutes when visuo-motor correlations change, causing persistent changes in the brain’s heading map. 
+
 [Preview](https://www.nature.com/articles/d41586-019-03443-1) by M Campbell & L Giocomo 
 
 ## FlpStop, a tool for conditional gene control in Drosophila
