@@ -1,5 +1,5 @@
 # News
-[About](https://evettita.github.io) | [News](https://evettita.github.io/news) | [Publications](https://evettita.github.io/publications) | [Resources](https://evettita.github.io/resources) | [Art](https://evettita.github.io/coverart) | [CV](images/CV_YvetteFisher_2019_Oct.pdf)
+[About](https://evettita.github.io) | [News](https://evettita.github.io/news) | [Publications](https://evettita.github.io/publications) | [Resources](https://evettita.github.io/resources) | [Art](https://evettita.github.io/coverart) | [CV](images/CV_Yvette_Fisher_2019_Dec.pdf)
 
 ![ephy rig](images/microscope_250_250.jpg "microscope") 
 
