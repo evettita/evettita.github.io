@@ -1,6 +1,6 @@
 
 # Publications
-[About](https://evettita.github.io) | [News](https://evettita.github.io/news) | [Publications](https://evettita.github.io/publications) | [Resources](https://evettita.github.io/resources) | [Art](https://evettita.github.io/coverart) | [CV](images/CV_YvetteFisher_2019_Oct.pdf)
+[About](https://evettita.github.io) | [News](https://evettita.github.io/news) | [Publications](https://evettita.github.io/publications) | [Resources](https://evettita.github.io/resources) | [Art](https://evettita.github.io/coverart) | [CV](images/CV_Yvette_Fisher_2019_Dec.pdf)
 
 ![VisualSystem](images/visualSystem_250_250.jpg "Drosophila visual system") 
 
