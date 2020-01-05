@@ -1,5 +1,5 @@
 # Cover art
-[About](https://evettita.github.io) | [News](https://evettita.github.io/news) | [Publications](https://evettita.github.io/publications) | [Resources](https://evettita.github.io/resources) | [Art](https://evettita.github.io/coverart) | [CV](images/CV_YvetteFisher_2019_Oct.pdf)
+[About](https://evettita.github.io) | [News](https://evettita.github.io/news) | [Publications](https://evettita.github.io/publications) | [Resources](https://evettita.github.io/resources) | [Art](https://evettita.github.io/coverart) | [CV](images/CV_Yvette_Fisher_2019_Dec.pdf)
 
 I enjoy creating cover painting to accompany publications, one of these days I would be excited to get selected for the cover.
 
