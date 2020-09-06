@@ -5,7 +5,9 @@
 
 yvetteefisher@gmail.com [@yvetteefisher](https://twitter.com/yvetteefisher)
 
-Welcome, I am Yvette Fisher.  I am a neuroscientist interested in understanding network flexibility at the level of single neuron biophysic and neuronal circuit dynamics. I'm currently as a postdoctoral fellow in the lab of [Rachel Wilson](https://wilson.hms.harvard.edu/) in the [Neurobiology Department](https://neuro.hms.harvard.edu/) at Harvard Medical School.  I'll be opening my own lab at UC Berkeley [MCB department](https://mcb.berkeley.edu/) and [Helen Wills Neuroscience Institute](https://neuroscience.berkeley.edu/) in July 2021.  Check out our new [lab website here](https://www.fisherlab.science/)! 
+Welcome, I am Yvette Fisher.  I am a neuroscientist interested in understanding network flexibility at the level of single neuron biophysic and neuronal circuit dynamics. I'm currently as a postdoctoral fellow in the lab of [Rachel Wilson](https://wilson.hms.harvard.edu/) in the [Neurobiology Department](https://neuro.hms.harvard.edu/) at Harvard Medical School.  
+
+I'll be opening my own lab at UC Berkeley [MCB department](https://mcb.berkeley.edu/) and [Helen Wills Neuroscience Institute](https://neuroscience.berkeley.edu/) in July 2021.  Check out our new [lab website here](https://www.fisherlab.science/)! 
 
 My research employs a range of approaches including genetic manipulation, two-photon calcium imaging, in vivo electrophysiology, and behavioral analysis.  Using these approaches I study how the properties of single neurons and the communication between groups of neurons allow the brain to compute and how these computations are modified overtime to adapt to an organism's current enviroment and internal conditions.  I receive funding for my postdoctoral research from the [HHMI Hanna Gray fellowship](https://www.hhmi.org/programs/hanna-h-gray-fellows-program#F). 
 
